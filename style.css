@@ -43,3 +43,7 @@ a:hover {
     color: #cc3300;
     text-decoration: underline;
 }
+
+.rotated-photo {
+    width: 350px;
+}
